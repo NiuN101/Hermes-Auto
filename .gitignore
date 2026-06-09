@@ -1,0 +1,32 @@
+# Build artifacts
+hermesStart/dist/
+hermesStart/build/
+hermesStart/__pycache__/
+hermesStart/hermes_app/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE / AI tools
+.vscode/
+.idea/
+.opencode/
+*.swp
+*.swo
+
+# Python
+*.egg-info/
+.eggs/
+*.egg
+
+# Windows
+*.lnk
+
+# Misc
+*.log
+*.bak
+scratch/
