@@ -6,7 +6,7 @@ hiddenimports += collect_submodules('tkinter')
 
 
 a = Analysis(
-    ['E:\\Vibe coding\\HermesAutoStart20260609\\hermesStart\\hermesStart.py'],
+    ['hermesStart.py'],
     pathex=[],
     binaries=[],
     datas=[],
@@ -39,5 +39,5 @@ exe = EXE(
     target_arch=None,
     codesign_identity=None,
     entitlements_file=None,
-    icon=['E:\\Vibe coding\\HermesAutoStart20260609\\hermesStart\\assets\\hermes.ico'],
+    icon=['assets\\hermes.ico'],
 )
