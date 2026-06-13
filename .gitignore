@@ -30,3 +30,7 @@ Thumbs.db
 *.log
 *.bak
 scratch/
+
+# opencode session metadata (contains absolute paths)
+fc*.json
+fc*.json.bak
